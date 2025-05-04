@@ -43,8 +43,6 @@ Features:
 
 **CurrencyConverter**/ 
 
-**CurrencyConverter**/ 
-
 CurrencyConverter.sln 
 
  - CurrencyConverter.Api/ **Web API, controllers & middleware** 
