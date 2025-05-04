@@ -63,6 +63,7 @@ CurrencyConverter.sln
 cd src/CurrencyConverter.Api
 dotnet restore
 dotnet build --configuration Release
+```
 
 
 3. **Running the API**
@@ -72,8 +73,9 @@ dotnet build --configuration Release
 ```bash
 # default is Development; to run production settings:
 export ASPNETCORE_ENVIRONMENT=Production
-
+```
 ## Run
 
 ```bash
 dotnet run
+```
