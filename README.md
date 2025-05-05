@@ -79,3 +79,8 @@ export ASPNETCORE_ENVIRONMENT=Production
 ```bash
 dotnet run
 ```
+
+## Branches
+- master (production)
+- develop (development)
+- staging
